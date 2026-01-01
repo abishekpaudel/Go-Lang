@@ -18,3 +18,8 @@ func ConnectDatabase() {
 
 	DB = database
 }
+
+
+function Abc(a,b int)int{
+	
+}
